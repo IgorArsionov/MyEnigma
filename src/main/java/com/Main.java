@@ -5,6 +5,6 @@ package com;
 public class Main {
     public static void main(String[] args) {
         Engine engine = new Engine(12);
-        System.out.println(engine.encode(""));
+        System.out.println(engine.encode("Привет"));
     }
 }
